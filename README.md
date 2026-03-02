@@ -1,2 +1,19 @@
-# GradTrack-GUI
-ava Swing GUI prototype for GradTrack (Student &amp; Supervisor dashboards, messaging, submissions, milestones, and task management) designed with a modern SaaS-style UI
+# GradTrack GUI
+
+A modern Java Swing GUI prototype for a Graduation Project Tracking System.
+
+## Features
+- Student Dashboard
+- Supervisor Dashboard
+- Messaging UI
+- Submissions & Review System
+- Milestones Tracking
+- Task Management Interface
+
+## Tech Stack
+- Java
+- Swing (Custom Painted Components)
+- Nimbus Look & Feel
+
+## Notes
+This is a front-end GUI prototype. Backend logic can be integrated later.
